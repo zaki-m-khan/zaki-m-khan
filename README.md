@@ -68,13 +68,6 @@ Currently working on a capstone through Cornell Tech’s AI Studio. Applying CRI
 
 ---
 
-### 📊 GitHub Stats
-
-![Zaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaki-m-khan&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-m-khan&layout=compact)
-
----
-
 ### 📜 Certifications
 
 - [Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/api/credentials/share/en-us/zakimkhan/F97E0B52FAD0A3E?sharingId=32E967B9DC2D41A6)  
