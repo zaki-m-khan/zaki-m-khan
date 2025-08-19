@@ -4,7 +4,7 @@ From research in Germany to building with emerging tech in New York, I’ve alwa
 
 I’m a Computer Science & Business Honors student at Lehigh University. I’m currently interning in AI & Data at EY, a fellow in Cornell Tech’s AI/ML Studio, and building projects that make real problems simpler, smarter, and more human.
 
-**⚠️ Quick note: My commit activity looks quieter this year (especially in spring and summer) because my Software Engineering class used a private repo, and most of my AI/ML work was done through platforms like Canva and Databricks notebooks — so a lot of that effort doesn’t show up here 😔**
+**⚠️ Quick note: My commit activity looks quieter this year (especially in spring and summer) because my Software Engineering class used a private repo, and most of my AI/ML work was done through platforms like Canva and Jupyter notebooks — so a lot of that effort doesn’t show up here 😔**
 
 ---
 
